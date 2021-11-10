@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    border: 0ch;
+    padding: 0pc;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+nav{
+    background-color: black;
+    color: rgb(216, 171, 112);
+    padding: 20px;
+    
+}
+.first1{
+    font-family: 'Dancing Script', cursive;
+    font-size: xxx-large;
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+.first1 h1{
+    color:violet;
+}
+nav .menu{
+    list-style: none;
+    display: inline-block;
+    
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    padding: 20px;
+}
+.menu li{
+    display:inline-block;
+}
+.Home{
+    background-color: rgb(22, 21, 21);
+    height: 558px;
+    background-attachment: fixed;
+    padding-top: 30px;
+}
+.Home h1{
+    color: aliceblue;
+    font-size: 75px;
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+    margin-left: 30px;
+}
+.Home a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+}
+.Home h3{
+    padding-top: 90px;
+}
+.about h1{
+    font-size: 45px;
+}
+.about1{
+    display: inline;
+}
+.skills{
+    background-color: rgb(22, 21, 21);
+    height: 600px;
+}
+.skill1 li{
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: aliceblue;
+    background-color: rgb(7, 7, 7);
+    font-size: xx-large;
+    display: inline;
+}
+.skill1 a{
+    border-radius: 15px;
+    text-align: center;
+    padding: 90px;
+    font-family: 'Lato', sans-serif;
+    color: aliceblue;
+    background-color: rgb(7, 7, 7);
+    font-size: xx-large;
+    display: inline-block;
+}
+.skill1 a:hover{
+    color: rgb(233, 233, 233);
+    text-decoration:solid;
+    background-color: orangered;
+}
+footer{
+    text-align: justify;
+
+}
+.end ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+.end a{
+    padding: 30px;
+}
+.end div{
+    display: inline-block;
+    padding-top: 60px;
+}
+
+
+
+
+
